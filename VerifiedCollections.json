@@ -137,19 +137,29 @@
   },
   "e37f2b8433ea0d2b3f023684d1ef3fb13effb63086a9f14b1891497e": {
     "addr": "addr1v8p3k4axfnn838073fl5xqkx8wa7zc6025cqjph03p4t4ysnfuxa7",
-    "cid": "bafybeigpnb3m3hwfsjzorgz655l2rqs7gms4ym5jmnfexmilzovr5e6vzq",
+    "cid": "bafybeiagurpltw5jrejne3t3mz4q4vmqz2bcq5y4fliib36iv3lzs7xq2i",
     "count": 10000,
-    "description": "Guardian liquidators have combined forces with adyield and with alliances to protect the community. \r\n\r\nThey work on various chains and have an infinity loop to protect there newest community, adyield. They also have a sense of humor battling the treacherous defi waters! Protectors of the realm of crypto. The guardians pay homage to a unique community as well, enjoy!",
-    "discordURL": "https://discord.gg/MmmrYDvN",
-    "img": "QmPXHHN7d1z6xEMcWp88gEgYaStQ4epE4Ntb1qCaE6PTrd",
+    "description": "Guardian Liquidators NFT (Remixed) Collection: The Guardian Liquidators have joined forces with ADAYield and their alliances to protect the community. They operate across various chains to safeguard their newest community, ADAYield, showcasing not only their strength but also their sense of humor as they navigate the treacherous waters of DeFi. As protectors of the realm of crypto, the Guardians pay homage to a unique community. Enjoy the adventure!The Guardian Liquidators have additional allies, including Mech Guardian, Latte Man - The Professional, Sensai Rogue, and many others, all united in repelling attacks from their enemies. However, a dark force led by a rogue AI known as Omega has emerged, intent on causing chaos and destruction. Using the all-seeing eye, the Guardian Liquidators are poised to defeat the Omega army and protect their world.",
+    "discordURL": "https://discord.com/invite/b59zGphC",
+    "img": "bafybeiagurpltw5jrejne3t3mz4q4vmqz2bcq5y4fliib36iv3lzs7xq2i",
     "name": "Guardian Liquidators",
-    "owner": "addr1qxvx5em42mk3sfnr7jhlk5j7k5z062gmalfdafj7ynztrp75mv7smlakar98xnt2s8sqyyehxe3vu6l6jnscqvsuug4qgc73at",
-    "path": "GuardianLiquidators",
+    "owner": "addr1q8cnlt22q7whnthpz9t00p92xlnkrk7pnxjs83sm4aqw0urwx40aktehf37yhxtd0wsudkyj23wmh0f8chwryy50zppqrtz3w2",
+    "path": "Guardian Liquidators",
     "price": {
-      "standard": 15000000
+      "standard": 30000000
     },
+    "royalty": {
+      "777": {
+        "addr": [
+          "addr1q8cnlt22q7whnthpz9t00p92xlnkrk7pnxjs83sm4aqw0u",
+          "rwx40aktehf37yhxtd0wsudkyj23wmh0f8chwryy50zppqrtz3w2"
+        ],
+        "rate": "0.1"
+      }
+    },
+    "startcount": 1,
     "telegramURL": "",
-    "twitterURL": "https://twitter.com/Guardians2023x?t=-5odbEivkfPq3SzqOUao0A&s=09",
+    "twitterURL": "https://x.com/Naz90755327?t=NU0UAHFYRyr2McgYe-LK-w&s=09",
     "websiteURL": "",
     "youtubeURL": ""
   },
