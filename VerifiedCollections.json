@@ -39,7 +39,7 @@
     "addr": "addr1vx458m6wfm2llw0zfhkj9my8p04t4w8nyzm4ta7tpugcq6shnm6sf",
     "cid": "bafybeigpklqt3y37juqigfhowx4ztikkhukmaltdqcarnzvkdfctabeu3u",
     "count": 777,
-    "description": "Roulette Mastery NFT Collection:\nElevate Your Game and take the luck out of the equation.\nUnlock the full potential of roulette mastery with our exclusive NFT collection. NFT holders not only can make a living from roulette winnings but also gain VIP access to a Discord community. Here, enjoy live sessions, exclusive training, 1-on-1 sessions, AMAs, casino trips, and more.\nVisit www.RouletteMastery.io for instant access to the comprehensive Roulette Mastery Training that took over a decade and more than 1.2 million spins to complete! Say goodbye to luck and hello to a world where precision and science redefine your roulette experience. Join the elite community and start your journey to becoming a true roulette master.",
+    "description": "Roulette Mastery NFT Collection:\nElevate Your Game and take the luck out of the equation. Unlock the full potential of roulette mastery with our exclusive NFT collection. NFT holders not only can make a living from roulette winnings but also gain VIP access to a Discord community. Here, enjoy live sessions, exclusive training, 1-on-1 sessions, AMAs, casino trips, and more.\nVisit www.RouletteMastery.io for instant access to the comprehensive Roulette Mastery Training that took over a decade and more than 1.2 million spins to complete! Say goodbye to luck and hello to a world where precision and science redefine your roulette experience. Join the elite community and start your journey to becoming a true roulette master.",
     "discordURL": "https://discord.gg/rkudUfS7",
     "img": "bafybeieu6d5dmypqzbif45ylgfne4ormvtfwiwxk76lggw7h6i6ecle4wq",
     "name": "Roulette Mastery",
@@ -80,6 +80,34 @@
     "twitterURL": "https://metaversedefenders.drsurreal.art/twitter",
     "websiteURL": "https://metaversedefenders.drsurreal.art",
     "youtubeURL": "https://metaversedefenders.drsurreal.art/youtube"
+  },
+  "837ce3d158e8e746ca8f3601bae8ce5e36ca148995dda6f1c9df4ee4": {
+    "addr": "addr1v9y95eeqvmx4j2s39xyxl80zs30ccfz25ljfgzv08cwp43sk9g9zq",
+    "cid": "bafybeiheprncvlsfxyusgytpo3xlm2jeax3gdnxfaq6uwxtvdgqmfu4d6e",
+    "count": 420,
+    "description": "Dive into the captivating realm of Metaverse Cadavers, an extraordinary 1/1 limited edition collection of 420 NFTs born from the creative synergy of Dr Surreal and the Cadaver Pot Club. What sets the Metaverse Cadavers apart is not just the incredible artwork, but the utility and additional bonuses you get with every mint. Every mint will receive an additional CPC utility NFT giving you $FLEsH Drips. Also, every tenth numbered NFT eg #10, #20, #420 etc wins a special NFT prize pack! Plus, holding an NFT will unlock the Cadavers Crypt with HD backgrounds for Desktops and Phones.\nEach NFT embodies an array of distinctive traits, from the years the have been dead to their level of notoriety and far beyond. No duplicates exist, ensuring that each owner holds an unparalleled, individual asset that will live undead on the blockchain for eternity. Embrace the power of the Metaverse Cadavers and embark on a journey into the world of the undead like never before. Let your imagination come alive, as you become a proud owner of one of these extraordinary NFTs.",
+    "discordURL": "",
+    "img": "QmbewxzqF56G6gUhtjGFD4KfiPVipLcyBWr8TCLvE3UhwU",
+    "name": "Metaverse Cadavers",
+    "owner": "addr1q8ltqu3amlvf9e0wkglnkqnmxgkf7nqur3sqkh9mzwqc3wl4sn5p5jet4kw0ugyyejgzzvapssczxxclltxphcj9gu8sqvdple",
+    "path": "MetaverseCadavers",
+    "price": {
+      "standard": 69000000
+    },
+    "royalty": {
+      "777": {
+        "addr": [
+          "addr1q8ltqu3amlvf9e0wkglnkqnmxgkf7nqur3sqkh9mzwqc3wl",
+          "4sn5p5jet4kw0ugyyejgzzvapssczxxclltxphcj9gu8sqvdple"
+        ],
+        "rate": "0.1"
+      }
+    },
+    "startcount": 1,
+    "telegramURL": "",
+    "twitterURL": "https://twitter.com/CadaverPotClub",
+    "websiteURL": "https://www.metaversecadavers.com",
+    "youtubeURL": ""
   },
   "919bfd1d5e53b4ceca544fc51cec935a2f603e7fbdc76c42884352e9": {
     "addr": "addr1v87navadgsql98ffnsfhs02gqh2ejx6x6n35am8q506ewvgjcv3am",
