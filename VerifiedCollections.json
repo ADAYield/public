@@ -190,23 +190,5 @@
     "twitterURL": "https://x.com/Naz90755327?t=NU0UAHFYRyr2McgYe-LK-w&s=09",
     "websiteURL": "",
     "youtubeURL": ""
-  },
-  "f7206fd0d0df2e14ad6b10d36b0b29231bb3f295880e9c01f43f509e": {
-    "addr": "addr1v9emqmhthsekzyvk038cj7g3kgugj5l06p2rnq0hfmw4mngg0cdw6",
-    "cid": "QmS3k46CXne9tnn4VTvkZ9QgoeYqFyp1yqK29ve8mycarW",
-    "count": 5555,
-    "description": "Seize the opportunity to mint an exclusive NFT Gem and gain premium access to cutting-edge features, tools, and benefits while generating ADA rewards powered by the ADAYield Community. Each NFT Gem holder will receive 100,000 ADY, along with 80% share of future royalties from NFT sales and GEM pools. Additionally, gem holders receive a 10% from every utility built by the community, including Minting platform, NFT Marketplace, DEX, Wallet, AR platform and more. Become part of a vibrant and growing ecosystem of asset collectors, and stay ahead as the platform evolves. Join the future of blockchain and the ADAYield ecosystem by minting your NFT Gem now, and embark on a journey filled with benefits and rewards!",
-    "discordURL": "https://discord.gg/fbXT3ywQ3x",
-    "img": "QmV4o5nANzCVMbcJhuCWgxLhg312M3kzyXQBxuub7iAmBW",
-    "name": "Gems",
-    "owner": "addr1qxzv58p93myca2r2taufs8ev5azy8d752xdsznau7e2hfzyy4anxu66lzzx24lsn7nztq7g58s2klde6y2s6vds7wevqjg83da",
-    "path": "Gems",
-    "price": {
-      "standard": 120000000
-    },
-    "telegramURL": "https://t.me/adayield",
-    "twitterURL": "https://twitter.com/realadayield",
-    "websiteURL": "https://adayield.io/",
-    "youtubeURL": "https://youtu.be/bOVPZvj-t7M"
   }
 }
