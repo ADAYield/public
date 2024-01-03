@@ -1,17 +1,20 @@
 {
   "015f99b7de2313b1156af9142653f63f735c3a2f1dc4cc6af0ce46fa": {
     "addr": "addr1vymleewqkqnxnk05kes8qch2g4j54rua9j3tm2z6ntdckzs6xrmtf",
+    "banner": "",
     "cid": "bafybeif5d6po3xz4e2wrjp5o2i7jnjt3edhgqdco6fn5ksn5wd545nze5i",
     "count": 10000,
     "description": "Introducing the Meeko Gattuso NFT collection, a remarkable opportunity for fans and collectors to own a piece of the acclaimed actor's legacy. Meeko Gattuso's versatile performances and captivating screen presence have made him a celebrated figure in the entertainment industry. This exclusive collection grants NFT holders access to a world of benefits, including exclusive content via the Stream-Key platform, private hangouts, AMA sessions, backstage access, signed memorabilia, and more. As an NFT holder, you gain privileged entry into a digital realm where you can explore behind-the-scenes footage, unreleased scenes, and exclusive interviews. Engage directly with Meeko through private hangouts and AMA sessions, where you can gain insights into his creative process and receive firsthand advice. Additionally, enjoy VIP access to premieres, red carpet events, and exclusive screenings, with the opportunity to meet other renowned actors and industry professionals. The Meeko Gattuso NFT collection offers an unparalleled experience that celebrates Meeko's talent and rewards dedicated fans with a range of benefits and unique opportunities.",
     "discordURL": "",
     "img": "QmRuQTHJjYXCQuLjMNx2HTVyGJTACznHzCJuCCGFWpuGPp",
     "name": "Meeko Gattuso",
+    "open": true,
     "owner": "addr1qxcrsalmujpt0qqlyrseehr0znj8em57ecrnrnk757frtxm24ecsv6qz9zx2gc0p5dxx9sfntckuu4ugcxvue5z35xasqhrsu7",
     "path": "MeekoGattuso",
     "price": {
       "standard": 150000000
     },
+    "startcount": 1,
     "telegramURL": "",
     "twitterURL": "https://www.instagram.com/meekogattuso/?hl=en",
     "websiteURL": "",
@@ -19,30 +22,65 @@
   },
   "3695a0fb45b370a9106871af6858ca3b85c4a8813e80ba9d02dd0e96": {
     "addr": "addr1v9ms06tj470zd569kd5yyr34paxhtpuewda0mplh5fkhkfq5w276u",
+    "banner": "",
     "cid": "bafybeibermgmuuaxjghd2ew4gxbwbnb7rgt2zfhac36auf5nd2yz7i5xtq",
     "count": 10000,
     "description": "The PsychoNauts found themselves in a flipped reality when they fell through a Purple portal. The Cardano blockchain will never be the same with PsychoNauts building a muti chain ecosystem brand with one goal to become a top contender adding value on the chain.",
     "discordURL": "",
     "img": "QmdVtyfSMPQpULYrjtRcsWRpm3dxh7o6ADKpZUUStDcHJh",
     "name": "PsychoNaut Flipd",
+    "open": true,
     "owner": "addr1q842cnpy5598rvgmyahfyqx6fx0vpsmacmg5rqg0w379306fq0387yqxhnm37p5gl8ql25e9ccuyrh8y4gd2r5klm33s5djkuh",
     "path": "PsychoNautFlipd",
     "price": {
       "standard": 10000000
     },
+    "startcount": 1,
     "telegramURL": "https://twitter.com/hempmillionaire",
     "twitterURL": "https://twitter.com/PsychoNautAnon",
     "websiteURL": "https://www.instagram.com/Psychonautanon",
     "youtubeURL": ""
   },
+  "418686ba2ff6d8a15c36167bbcb6e7a89a9ca7f2c739c7b16a691b00": {
+    "addr": "addr1v8flzu7l8rtt2erscnpcpg69w85w52gtcyrac45qq0advmg8n7zat",
+    "banner": "",
+    "cid": "QmbCHFehNK7qGYgrAc58R2wsSbnaDSAX5DHKVHrHheqjRT",
+    "count": 300,
+    "description": "Power GEMs are a limited edition NFT asset class designed to provide holders with exclusive free access to premium features and rewards within a diverse ecosystem. With only 300 tokens available, Power GEMs are exceptionally rare and generate ADA rewards through multiple channels. This includes 80% royalties from future NFT sales, 1,000,000 ADY tokens per Power GEM, and 60% rewards from GEM staking pools. In addition, Power GEM holders benefit from 15% rewards derived from community-built utilities, including minting pages, NFT marketplaces, DEX, wallets, and AR platforms. The advanced technology behind Power GEMs ensures security and immutability, while the exclusive benefits and rewards make them a scarce asset in the rapidly evolving world of digital assets.",
+    "discordURL": "https://discord.gg/fbXT3ywQ3x",
+    "img": "QmUhS8QHKe7VTNUpZ4s1eZ2vtfnBU1FhLBajczuwrJqf5e",
+    "name": "Power Gems",
+    "open": false,
+    "owner": "addr1qxzv58p93myca2r2taufs8ev5azy8d752xdsznau7e2hfzyy4anxu66lzzx24lsn7nztq7g58s2klde6y2s6vds7wevqjg83da",
+    "path": "PowerGems",
+    "price": {
+      "standard": 777000000
+    },
+    "royalty": {
+      "777": {
+        "addr": [
+          "",
+          ""
+        ],
+        "rate": ""
+      }
+    },
+    "startcount": 1,
+    "telegramURL": "https://t.me/adayield",
+    "twitterURL": "https://twitter.com/realadayield",
+    "websiteURL": "https://adayield.io/",
+    "youtubeURL": "https://youtu.be/bOVPZvj-t7M"
+  },
   "5389ca30e8a3e941e20c710ad3f6900f6dd8b661d7cc16c7166d5d8c": {
     "addr": "addr1vx458m6wfm2llw0zfhkj9my8p04t4w8nyzm4ta7tpugcq6shnm6sf",
+    "banner": "",
     "cid": "bafybeigpklqt3y37juqigfhowx4ztikkhukmaltdqcarnzvkdfctabeu3u",
     "count": 777,
     "description": "Roulette Mastery NFT Collection:\nElevate Your Game and take the luck out of the equation. Unlock the full potential of roulette mastery with our exclusive NFT collection. NFT holders not only can make a living from roulette winnings but also gain VIP access to a Discord community. Here, enjoy live sessions, exclusive training, 1-on-1 sessions, AMAs, casino trips, and more.\nVisit www.RouletteMastery.io for instant access to the comprehensive Roulette Mastery Training that took over a decade and more than 1.2 million spins to complete! Say goodbye to luck and hello to a world where precision and science redefine your roulette experience. Join the elite community and start your journey to becoming a true roulette master.",
     "discordURL": "https://discord.gg/rkudUfS7",
     "img": "bafybeieu6d5dmypqzbif45ylgfne4ormvtfwiwxk76lggw7h6i6ecle4wq",
     "name": "Roulette Mastery",
+    "open": true,
     "owner": "addr1q9qhay2zwlq88tcm4wxkxuc0sg30c5j89rwsw3pm4m3lkl4cday2uucnrhhpwllwzmz2hgmkuhq4s794m575fufknn0q29n8zs",
     "path": "RouletteMastery",
     "price": {
@@ -65,17 +103,20 @@
   },
   "8202ff963ba5815acf0cb8867d1bac1027a1c6c423f30a6236e4e99b": {
     "addr": "addr1vyfpmv4payrfkq6v9l6a7ayrtrcypsfz4pe6rr9durm2tqsyv7ftt",
+    "banner": "",
     "cid": "bafybeihu7qmx6xogdelbiwndwh7e7avtkeozxt5t77oscbij6pcyd5xntm",
     "count": 366,
     "description": "Metaverse Defenders is a 1/1 NFT collection by artist Dr Surreal. Every one of the 366 Characters exist within a futuristic Metaverse playing an important part of safeguarding its integrity. What sets the Metaverse Defenders apart is the meticulous attention to detail paid to each characters attributes. No two NFTs are the same, ensuring that every owner possesses a completely unique and individual asset. These attributes go beyond just visual aesthetics, encompassing a wide range of traits including their specialisation, years experience, notoriety, skill level, stealth level, success rate, ethics level and if they collaborate with others. Embrace the power of the Metaverse Defenders and embark on a journey into the future like never before. Let your imagination soar, your spirit defend, and your commitment to the future shine through as you become a proud owner of one of these extraordinary NFTs.",
     "discordURL": "https://metaversedefenders.drsurreal.art/discord",
     "img": "QmWr4VQYkNVJ4amzxu4BQPU81WfjAbFvmGidDpgmsAi9nh",
     "name": "Metaverse Defenders",
+    "open": true,
     "owner": "addr1q9ec5tcrx3vlrh3t6gkf4c6fccr9g6azkfm7za6wlzpsmd3l59ysdn74fjpfqzvdh66zysdl6h27ypg6vwfdfcpxp47ql4wp8p",
     "path": "MetaverseDefenders",
     "price": {
       "standard": 19000000
     },
+    "startcount": 1,
     "telegramURL": "https://metaversedefenders.drsurreal.art/telegram",
     "twitterURL": "https://metaversedefenders.drsurreal.art/twitter",
     "websiteURL": "https://metaversedefenders.drsurreal.art",
@@ -83,12 +124,14 @@
   },
   "837ce3d158e8e746ca8f3601bae8ce5e36ca148995dda6f1c9df4ee4": {
     "addr": "addr1v9y95eeqvmx4j2s39xyxl80zs30ccfz25ljfgzv08cwp43sk9g9zq",
+    "banner": "",
     "cid": "bafybeiheprncvlsfxyusgytpo3xlm2jeax3gdnxfaq6uwxtvdgqmfu4d6e",
     "count": 420,
     "description": "Dive into the captivating realm of Metaverse Cadavers, an extraordinary 1/1 limited edition collection of 420 NFTs born from the creative synergy of Dr Surreal and the Cadaver Pot Club. What sets the Metaverse Cadavers apart is not just the incredible artwork, but the utility and additional bonuses you get with every mint. Every mint will receive an additional CPC utility NFT giving you $FLEsH Drips. Also, every tenth numbered NFT eg #10, #20, #420 etc wins a special NFT prize pack! Plus, holding an NFT will unlock the Cadavers Crypt with HD backgrounds for Desktops and Phones.\nEach NFT embodies an array of distinctive traits, from the years the have been dead to their level of notoriety and far beyond. No duplicates exist, ensuring that each owner holds an unparalleled, individual asset that will live undead on the blockchain for eternity. Embrace the power of the Metaverse Cadavers and embark on a journey into the world of the undead like never before. Let your imagination come alive, as you become a proud owner of one of these extraordinary NFTs.",
     "discordURL": "",
     "img": "QmbewxzqF56G6gUhtjGFD4KfiPVipLcyBWr8TCLvE3UhwU",
     "name": "Metaverse Cadavers",
+    "open": true,
     "owner": "addr1q8ltqu3amlvf9e0wkglnkqnmxgkf7nqur3sqkh9mzwqc3wl4sn5p5jet4kw0ugyyejgzzvapssczxxclltxphcj9gu8sqvdple",
     "path": "MetaverseCadavers",
     "price": {
@@ -111,17 +154,20 @@
   },
   "919bfd1d5e53b4ceca544fc51cec935a2f603e7fbdc76c42884352e9": {
     "addr": "addr1v87navadgsql98ffnsfhs02gqh2ejx6x6n35am8q506ewvgjcv3am",
+    "banner": "",
     "cid": "bafybeicrxkvumlvj5f2o6jzi4oxx4wjoixcsqawjn64qrf7npkvvcmv36m",
     "count": 10000,
     "description": "Discover the Cadaver Pot Club, an exclusive collection of 10,000 uniquely designed stoned skeletons, crafted just for the Cardano blockchain. Embrace your edgy side and join a vibrant community of enthusiasts and collectors who appreciate exquisite artwork and a touch of dark humor. With over 100 unique traits, limited availability, and special pricing for gem holders, now's the perfect time to mint your Cadaver NFT and dive into an immersive world of undead delight. Don't wait – grab your Cadaver and let the smokin' good times roll!",
     "discordURL": "",
     "img": "QmPKGrh69YjjdNSuUAk2MXqZaspjvuTuwaCZSKD3xyzAwt",
     "name": "Cadaver Pot Club",
+    "open": true,
     "owner": "addr1q84l247yal7qjzqzs0zxl9dfvurfvdrz08r23mtsls4q3u4ll7hyg5yg2cnrr9kh5k0h7v5dsq0sp3dwztpks4ka8yks8rend4",
     "path": "CadaverPotClub",
     "price": {
       "standard": 22000000
     },
+    "startcount": 1,
     "telegramURL": "",
     "twitterURL": "https://twitter.com/CadaverPotClub",
     "websiteURL": "",
@@ -129,17 +175,20 @@
   },
   "9f45dc075712bae139383b01dd6790b0c261aa95734ae10293a68919": {
     "addr": "addr1v9ka9yy9pzyhce2f2pkv8r7mgl9cupz7gu8ut7nm4u8u8fgj0wagq",
+    "banner": "",
     "cid": "bafybeigio6ar32rpjhpslc2az627w67f5u7p6uqtasadq4fmdwafmmxwaa",
     "count": 5252,
     "description": "The Original Sketch Collection by Illustrator Michael (Oddball) Randall, former Garbage Pail Kids sketch artist. The first NFTs to feature actual artist sketches, in transparent layering, over several actual media images.",
     "discordURL": "",
     "img": "QmVU3YSMk1ZJPmhQbxAQEcctZkxj28VvCvyrqJjZLVMs6P",
     "name": "SKETCH by Oddball",
+    "open": true,
     "owner": "addr1qx4wd242tnnlc9yztxws6slpes4wghal7s6n4f7tcxmzzk77q0gy9hc9cwzseepr53arjn0vsf8htqluzr7qzjw3kp4s9mftlc",
     "path": "SKETCHbyOddball",
     "price": {
       "standard": 150000000
     },
+    "startcount": 1,
     "telegramURL": "",
     "twitterURL": "https://twitter.com/OddballRandall",
     "websiteURL": "",
@@ -147,17 +196,20 @@
   },
   "d5ad382393561e45b7e580415b99562eea6cd120ce6a542a4b8e1e95": {
     "addr": "addr1v8p8edtgnpa0pk86azghm4awdvr6qxtxgq5muvk622avgdqx8x094",
+    "banner": "",
     "cid": "bafybeigo5fxq66frxs6p7jh6ktxmfongze2gwvxytluza7ardhfxvxjstq",
     "count": 10000,
     "description": "Looking for a bit of luck and a dash of color in the crypto labyrinth? Say hello to the 'Blessing of the Bull' NFT collection. It's a captivating ensemble of 10,000 unique pieces where lucky charm art dances with lively bull portraits. Each piece, crafted with care, is a small haven of creativity and fortune in the vast digital universe. We could all use a touch of luck in the crypto maze, and these NFTs add just the right amount of fun to the journey. Because let's face it, in the world of blockchain, having a 'Blessing of the Bull' by your side might be just the lucky charm you need!",
     "discordURL": "",
     "img": "QmX1hTmJygGef5y5wNMs765QUa5kUN1affCvqKgrDSr55S",
     "name": "Blessing of the Bull",
+    "open": true,
     "owner": "addr1q8fgexdrex6thdmg7d8s5h97epgkcrphzweaculmymaekqnjkd5s7cwkwzf2ey9nkpyjfha75g8lu2r0hpqja4dk68dsnf7daz",
     "path": "BlessingOfTheBull",
     "price": {
       "standard": 22000000
     },
+    "startcount": 1,
     "telegramURL": "",
     "twitterURL": "https://twitter.com/TheBlessingBull",
     "websiteURL": "https://www.blessingofthebull.com/",
@@ -165,12 +217,14 @@
   },
   "e37f2b8433ea0d2b3f023684d1ef3fb13effb63086a9f14b1891497e": {
     "addr": "addr1v8p3k4axfnn838073fl5xqkx8wa7zc6025cqjph03p4t4ysnfuxa7",
+    "banner": "",
     "cid": "bafybeih7lyjjghme7bantry6qvwlxwlny5pfvdh7qv3hfabhjoujzrikta",
     "count": 10000,
     "description": "Guardian Liquidators NFT (Remixed) Collection: The Guardian Liquidators have joined forces with ADAYield and their alliances to protect the community. They operate across various chains to safeguard their newest community, ADAYield, showcasing not only their strength but also their sense of humor as they navigate the treacherous waters of DeFi. As protectors of the realm of crypto, the Guardians pay homage to a unique community. Enjoy the adventure!The Guardian Liquidators have additional allies, including Mech Guardian, Latte Man - The Professional, Sensai Rogue, and many others, all united in repelling attacks from their enemies. However, a dark force led by a rogue AI known as Omega has emerged, intent on causing chaos and destruction. Using the all-seeing eye, the Guardian Liquidators are poised to defeat the Omega army and protect their world.",
     "discordURL": "https://discord.com/invite/b59zGphC",
     "img": "QmPXHHN7d1z6xEMcWp88gEgYaStQ4epE4Ntb1qCaE6PTrd",
     "name": "Guardian Liquidators",
+    "open": true,
     "owner": "addr1q8cnlt22q7whnthpz9t00p92xlnkrk7pnxjs83sm4aqw0urwx40aktehf37yhxtd0wsudkyj23wmh0f8chwryy50zppqrtz3w2",
     "path": "GuardianLiquidators",
     "price": {
@@ -190,5 +244,26 @@
     "twitterURL": "https://x.com/Naz90755327?t=NU0UAHFYRyr2McgYe-LK-w&s=09",
     "websiteURL": "",
     "youtubeURL": ""
+  },
+  "f7206fd0d0df2e14ad6b10d36b0b29231bb3f295880e9c01f43f509e": {
+    "addr": "addr1v9emqmhthsekzyvk038cj7g3kgugj5l06p2rnq0hfmw4mngg0cdw6",
+    "banner": "",
+    "cid": "QmS3k46CXne9tnn4VTvkZ9QgoeYqFyp1yqK29ve8mycarW",
+    "count": 5555,
+    "description": "Seize the opportunity to mint an exclusive NFT Gem and gain premium access to cutting-edge features, tools, and benefits while generating ADA rewards powered by the ADAYield Community. Each NFT Gem holder will receive 100,000 ADY, along with 80% share of future royalties from NFT sales and GEM pools. Additionally, gem holders receive a 10% from every utility built by the community, including Minting platform, NFT Marketplace, DEX, Wallet, AR platform and more. Become part of a vibrant and growing ecosystem of asset collectors, and stay ahead as the platform evolves. Join the future of blockchain and the ADAYield ecosystem by minting your NFT Gem now, and embark on a journey filled with benefits and rewards!",
+    "discordURL": "https://discord.gg/fbXT3ywQ3x",
+    "img": "QmV4o5nANzCVMbcJhuCWgxLhg312M3kzyXQBxuub7iAmBW",
+    "name": "Gems",
+    "open": false,
+    "owner": "addr1qxzv58p93myca2r2taufs8ev5azy8d752xdsznau7e2hfzyy4anxu66lzzx24lsn7nztq7g58s2klde6y2s6vds7wevqjg83da",
+    "path": "Gems",
+    "price": {
+      "standard": 120000000
+    },
+    "startcount": 1,
+    "telegramURL": "https://t.me/adayield",
+    "twitterURL": "https://twitter.com/realadayield",
+    "websiteURL": "https://adayield.io/",
+    "youtubeURL": "https://youtu.be/bOVPZvj-t7M"
   }
 }
