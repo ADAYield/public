@@ -257,7 +257,7 @@
   },
   "f7206fd0d0df2e14ad6b10d36b0b29231bb3f295880e9c01f43f509e": {
     "addr": "addr1v9emqmhthsekzyvk038cj7g3kgugj5l06p2rnq0hfmw4mngg0cdw6",
-    "allMinted": false,
+    "allMinted": true,
     "banner": "",
     "cid": "QmS3k46CXne9tnn4VTvkZ9QgoeYqFyp1yqK29ve8mycarW",
     "count": 5555,
