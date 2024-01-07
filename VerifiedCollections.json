@@ -1,6 +1,7 @@
 {
   "015f99b7de2313b1156af9142653f63f735c3a2f1dc4cc6af0ce46fa": {
     "addr": "addr1vymleewqkqnxnk05kes8qch2g4j54rua9j3tm2z6ntdckzs6xrmtf",
+    "allMinted": false,
     "banner": "",
     "cid": "bafybeif5d6po3xz4e2wrjp5o2i7jnjt3edhgqdco6fn5ksn5wd545nze5i",
     "count": 10000,
@@ -22,6 +23,7 @@
   },
   "3695a0fb45b370a9106871af6858ca3b85c4a8813e80ba9d02dd0e96": {
     "addr": "addr1v9ms06tj470zd569kd5yyr34paxhtpuewda0mplh5fkhkfq5w276u",
+    "allMinted": false,
     "banner": "",
     "cid": "bafybeibermgmuuaxjghd2ew4gxbwbnb7rgt2zfhac36auf5nd2yz7i5xtq",
     "count": 10000,
@@ -43,6 +45,7 @@
   },
   "418686ba2ff6d8a15c36167bbcb6e7a89a9ca7f2c739c7b16a691b00": {
     "addr": "addr1v8flzu7l8rtt2erscnpcpg69w85w52gtcyrac45qq0advmg8n7zat",
+    "allMinted": false,
     "banner": "",
     "cid": "QmbCHFehNK7qGYgrAc58R2wsSbnaDSAX5DHKVHrHheqjRT",
     "count": 300,
@@ -73,6 +76,7 @@
   },
   "5389ca30e8a3e941e20c710ad3f6900f6dd8b661d7cc16c7166d5d8c": {
     "addr": "addr1vx458m6wfm2llw0zfhkj9my8p04t4w8nyzm4ta7tpugcq6shnm6sf",
+    "allMinted": false,
     "banner": "",
     "cid": "bafybeigpklqt3y37juqigfhowx4ztikkhukmaltdqcarnzvkdfctabeu3u",
     "count": 777,
@@ -103,6 +107,7 @@
   },
   "8202ff963ba5815acf0cb8867d1bac1027a1c6c423f30a6236e4e99b": {
     "addr": "addr1vyfpmv4payrfkq6v9l6a7ayrtrcypsfz4pe6rr9durm2tqsyv7ftt",
+    "allMinted": false,
     "banner": "",
     "cid": "bafybeihu7qmx6xogdelbiwndwh7e7avtkeozxt5t77oscbij6pcyd5xntm",
     "count": 366,
@@ -124,6 +129,7 @@
   },
   "837ce3d158e8e746ca8f3601bae8ce5e36ca148995dda6f1c9df4ee4": {
     "addr": "addr1v9y95eeqvmx4j2s39xyxl80zs30ccfz25ljfgzv08cwp43sk9g9zq",
+    "allMinted": false,
     "banner": "",
     "cid": "bafybeiheprncvlsfxyusgytpo3xlm2jeax3gdnxfaq6uwxtvdgqmfu4d6e",
     "count": 420,
@@ -154,6 +160,7 @@
   },
   "919bfd1d5e53b4ceca544fc51cec935a2f603e7fbdc76c42884352e9": {
     "addr": "addr1v87navadgsql98ffnsfhs02gqh2ejx6x6n35am8q506ewvgjcv3am",
+    "allMinted": false,
     "banner": "",
     "cid": "bafybeicrxkvumlvj5f2o6jzi4oxx4wjoixcsqawjn64qrf7npkvvcmv36m",
     "count": 10000,
@@ -175,6 +182,7 @@
   },
   "9f45dc075712bae139383b01dd6790b0c261aa95734ae10293a68919": {
     "addr": "addr1v9ka9yy9pzyhce2f2pkv8r7mgl9cupz7gu8ut7nm4u8u8fgj0wagq",
+    "allMinted": false,
     "banner": "",
     "cid": "bafybeigio6ar32rpjhpslc2az627w67f5u7p6uqtasadq4fmdwafmmxwaa",
     "count": 5252,
@@ -196,6 +204,7 @@
   },
   "d5ad382393561e45b7e580415b99562eea6cd120ce6a542a4b8e1e95": {
     "addr": "addr1v8p8edtgnpa0pk86azghm4awdvr6qxtxgq5muvk622avgdqx8x094",
+    "allMinted": false,
     "banner": "",
     "cid": "bafybeigo5fxq66frxs6p7jh6ktxmfongze2gwvxytluza7ardhfxvxjstq",
     "count": 10000,
@@ -217,6 +226,7 @@
   },
   "e37f2b8433ea0d2b3f023684d1ef3fb13effb63086a9f14b1891497e": {
     "addr": "addr1v8p3k4axfnn838073fl5xqkx8wa7zc6025cqjph03p4t4ysnfuxa7",
+    "allMinted": false,
     "banner": "",
     "cid": "bafybeih7lyjjghme7bantry6qvwlxwlny5pfvdh7qv3hfabhjoujzrikta",
     "count": 10000,
@@ -247,6 +257,7 @@
   },
   "f7206fd0d0df2e14ad6b10d36b0b29231bb3f295880e9c01f43f509e": {
     "addr": "addr1v9emqmhthsekzyvk038cj7g3kgugj5l06p2rnq0hfmw4mngg0cdw6",
+    "allMinted": false,
     "banner": "",
     "cid": "QmS3k46CXne9tnn4VTvkZ9QgoeYqFyp1yqK29ve8mycarW",
     "count": 5555,
