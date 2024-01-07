@@ -254,7 +254,7 @@
     "discordURL": "https://discord.gg/fbXT3ywQ3x",
     "img": "QmV4o5nANzCVMbcJhuCWgxLhg312M3kzyXQBxuub7iAmBW",
     "name": "Gems",
-    "open": false,
+    "open": true,
     "owner": "addr1qxzv58p93myca2r2taufs8ev5azy8d752xdsznau7e2hfzyy4anxu66lzzx24lsn7nztq7g58s2klde6y2s6vds7wevqjg83da",
     "path": "Gems",
     "price": {
