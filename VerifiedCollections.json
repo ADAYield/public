@@ -74,6 +74,37 @@
     "websiteURL": "https://adayield.io/",
     "youtubeURL": "https://youtu.be/bOVPZvj-t7M"
   },
+  "4b6c17971075db0d586b444e6c4ff2ad3d78edad567662f10127efed": {
+    "addr": "addr1v89yks66ur3l2pj6k72fha0mtcqckluuq4t58wjt7sx3dcsctfp5k",
+    "allMinted": false,
+    "banner": "",
+    "cid": "bafybeie32b2pdb3egcia4uo6oenjl62rk6ursakxd3lsce4qw3jdqhdily",
+    "count": 5000,
+    "description": "5000 unique Roman Statue Inspired NFT Pass to Gain Exclusive Access to Discord Trading Groups, Receive a Weekly Financial Newsletter, and Secure Future Community NFT and Tokens. Hold Long Term to benefit from our Loyalty Reward System!",
+    "discordURL": "https://discord.gg/DQpG8zPbcJ",
+    "img": "QmacEMvhmb9LeTkLn511NeUpJVQLYyJrDa69jBr6ZA96pc",
+    "name": "Pecunia",
+    "open": true,
+    "owner": "addr1qxvppj4mkq6vj2crjwwec3g4ug34n302aphf86k4sxprvqvuv95vqxuzsvv6wr924fu4m95wxf4phmpqhdwv9f7u4lmqprvq9g",
+    "path": "Pecunia",
+    "price": {
+      "standard": 50000000
+    },
+    "royalty": {
+      "777": {
+        "addr": [
+          "addr1qxvppj4mkq6vj2crjwwec3g4ug34n302aphf86k4sxprvqv",
+          "uv95vqxuzsvv6wr924fu4m95wxf4phmpqhdwv9f7u4lmqprvq9g"
+        ],
+        "rate": "0.1"
+      }
+    },
+    "startcount": 0,
+    "telegramURL": "",
+    "twitterURL": "https://x.com/pecuniaada?s=21&t=bw0m0dSW1mqJAKY646AIcA",
+    "websiteURL": "",
+    "youtubeURL": ""
+  },
   "5389ca30e8a3e941e20c710ad3f6900f6dd8b661d7cc16c7166d5d8c": {
     "addr": "addr1vx458m6wfm2llw0zfhkj9my8p04t4w8nyzm4ta7tpugcq6shnm6sf",
     "allMinted": false,
