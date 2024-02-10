@@ -191,7 +191,7 @@
   },
   "919bfd1d5e53b4ceca544fc51cec935a2f603e7fbdc76c42884352e9": {
     "addr": "addr1v87navadgsql98ffnsfhs02gqh2ejx6x6n35am8q506ewvgjcv3am",
-    "allMinted": false,
+    "allMinted": true,
     "banner": "",
     "cid": "bafybeicrxkvumlvj5f2o6jzi4oxx4wjoixcsqawjn64qrf7npkvvcmv36m",
     "count": 10000,
@@ -199,7 +199,7 @@
     "discordURL": "",
     "img": "QmPKGrh69YjjdNSuUAk2MXqZaspjvuTuwaCZSKD3xyzAwt",
     "name": "Cadaver Pot Club",
-    "open": false,
+    "open": true,
     "owner": "addr1q84l247yal7qjzqzs0zxl9dfvurfvdrz08r23mtsls4q3u4ll7hyg5yg2cnrr9kh5k0h7v5dsq0sp3dwztpks4ka8yks8rend4",
     "path": "CadaverPotClub",
     "price": {
