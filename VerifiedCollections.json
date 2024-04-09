@@ -338,5 +338,36 @@
     "twitterURL": "https://twitter.com/realadayield",
     "websiteURL": "https://adayield.io/",
     "youtubeURL": "https://youtu.be/bOVPZvj-t7M"
+  },
+  "fbba70027054228ae55632dda5a1b7e7e01f60da9b1ea8c57217d1b9": {
+    "addr": "addr1v9sa0d5z0tv23j95ap0dujlwtytqg9h0fhrkz85ffmuplacadjgfg",
+    "allMinted": false,
+    "banner": "",
+    "cid": "",
+    "count": 500,
+    "description": "",
+    "discordURL": "https://discord.gg/gaaRJcVkwT",
+    "img": "QmcCwVLpNY2asNb4PQA8cyZipZWpohV7bKwHRQtPHqcTNG",
+    "name": "Ashib Cavalier Morphs",
+    "open": true,
+    "owner": "addr1q8p76d7fk0exee6384jn8myl2p2wsjm5rj6zlcpzgxqfulljus6at5hm44kmmxgunur69497du3evztjlsyjr8s7w8fs484szv",
+    "path": "AshibCavalierMorphs",
+    "price": {
+      "standard": 25000000
+    },
+    "royalty": {
+      "777": {
+        "addr": [
+          "addr1q8p76d7fk0exee6384jn8myl2p2wsjm5rj6zlcpzgxqfull",
+          "jus6at5hm44kmmxgunur69497du3evztjlsyjr8s7w8fs484szv"
+        ],
+        "rate": "0.1"
+      }
+    },
+    "startcount": 1,
+    "telegramURL": "",
+    "twitterURL": "https://twitter.com/ASHIBTOKEN",
+    "websiteURL": "https://ashib.io/",
+    "youtubeURL": ""
   }
 }
