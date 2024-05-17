@@ -243,7 +243,7 @@
     "discordURL": "https://discord.superpowercollective.com",
     "img": "QmadSw6bvdq9LLYGRXuXqPB3pTGFGfGp7BxLQaVeKGpfrT",
     "name": "Super Power Collective",
-    "open": false,
+    "open": true,
     "owner": "addr1q9ec5tcrx3vlrh3t6gkf4c6fccr9g6azkfm7za6wlzpsmd3l59ysdn74fjpfqzvdh66zysdl6h27ypg6vwfdfcpxp47ql4wp8p",
     "path": "SuperPowerCollective",
     "price": {
