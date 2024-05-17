@@ -235,7 +235,7 @@
   },
   "a08597cb6b942f22e9e5d86854691f089772106ad37b243393dd2b3a": {
     "addr": "addr1v8ta9a0lf0t2lkqyq435rzxhmfh9hc43h55wws8wm2kwklcdxcjl4",
-    "allMinted": false,
+    "allMinted": true,
     "banner": "",
     "cid": "bafybeialp2ij3au6bqezzbmdlbsr5waj3mmj5sqyqbh7w4sg2ns3kpdxme",
     "count": 10000,
