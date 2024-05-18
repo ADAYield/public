@@ -237,17 +237,17 @@
     "addr": "addr1v8ta9a0lf0t2lkqyq435rzxhmfh9hc43h55wws8wm2kwklcdxcjl4",
     "allMinted": true,
     "banner": "",
-    "cid": "bafybeialp2ij3au6bqezzbmdlbsr5waj3mmj5sqyqbh7w4sg2ns3kpdxme",
+    "cid": "",
     "count": 10000,
-    "description": "Welcome to the extraordinary world of the Super Power Collective! This incredible NFT collection brings together a diverse group of characters, in a futuristic setting, with an ever-evolving story. Get ready to dive into a realm where heroes, villains, aliens, and gods collide! Every NFT showcases unique and awe-inspiring characteristics, featuring stunning comic book styled artwork. Experience the thrill of rarity with one-of-a-kind designs, complete with gamified powers, energy levels and unique backdrop artwork. These limited-edition NFTs open the door to a limitless universe of imagination, empowering you to unleash your own inner superpowers! By joining the Super Power Collective, you become part of a community that strives to make a positive impact on the world through collective strength and collaboration. Embrace your inner hero today and join us on this incredible journey!",
+    "description": "Elevate your digital ownership with a $POWER NFT in the Super Power Collective. Join an elite circle, showcasing your commitment to strength, unity, and positive impact. Your $POWER NFT is not just a digital asset; it's a symbol of your dedication to being part of the Super Power Collective's origin story.\nOwning one of the 500 available GOLD NFTs gives you VIP GOLD Membership within the Super Power Collective. You will receive a special discord role to reflect this. Other bonuses include an airdropped $POWER Token Bonus, upcoming $POWER Token drips, Shop Discount Coupons, $POWER AI Membership Access plus upcoming special bonuses. Please check the website PowerToken.club for all the details with bonuses and token amounts.\nDon't delay, become part of this unparalleled adventure and mint a $POWER GOLD NFT today!",
     "discordURL": "https://discord.superpowercollective.com",
-    "img": "QmadSw6bvdq9LLYGRXuXqPB3pTGFGfGp7BxLQaVeKGpfrT",
-    "name": "Super Power Collective",
+    "img": "QmPdiYqbn1ShkCS58kLaM2CyCBhwNNHJUSRf5EgDK9v6MQ",
+    "name": "POWER Gold Membership",
     "open": true,
-    "owner": "addr1q9ec5tcrx3vlrh3t6gkf4c6fccr9g6azkfm7za6wlzpsmd3l59ysdn74fjpfqzvdh66zysdl6h27ypg6vwfdfcpxp47ql4wp8p",
-    "path": "SuperPowerCollective",
+    "owner": "addr1qx5zdy7d4gtac83q5xpj6vhflwtdjxeypge4adz0cjcs4mh54skde4js4ss74vr27dna6yczwzf8v4kzzwr7cafjdmdsutm2hw",
+    "path": "POWERGoldMembership",
     "price": {
-      "standard": 50000000
+      "standard": 40000000
     },
     "royalty": {
       "777": {
@@ -258,10 +258,10 @@
         "rate": "0.1"
       }
     },
-    "telegramURL": "https://www.superpowercollective.com",
-    "twitterURL": "https://twitter.com/SuperPower10k",
-    "websiteURL": "https://www.superpowercollective.com",
-    "youtubeURL": "https://www.youtube.com/@superpowercollective"
+    "telegramURL": "",
+    "twitterURL": "https://www.twitter.com/superpower10k",
+    "websiteURL": "https://www.powertoken.club",
+    "youtubeURL": ""
   },
   "d5ad382393561e45b7e580415b99562eea6cd120ce6a542a4b8e1e95": {
     "addr": "addr1v8p8edtgnpa0pk86azghm4awdvr6qxtxgq5muvk622avgdqx8x094",
