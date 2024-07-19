@@ -1,48 +1,4 @@
 {
-  "015f99b7de2313b1156af9142653f63f735c3a2f1dc4cc6af0ce46fa": {
-    "addr": "addr1vymleewqkqnxnk05kes8qch2g4j54rua9j3tm2z6ntdckzs6xrmtf",
-    "allMinted": false,
-    "banner": "",
-    "cid": "bafybeif5d6po3xz4e2wrjp5o2i7jnjt3edhgqdco6fn5ksn5wd545nze5i",
-    "count": 10000,
-    "description": "Introducing the Meeko Gattuso NFT collection, a remarkable opportunity for fans and collectors to own a piece of the acclaimed actor's legacy. Meeko Gattuso's versatile performances and captivating screen presence have made him a celebrated figure in the entertainment industry. This exclusive collection grants NFT holders access to a world of benefits, including exclusive content via the Stream-Key platform, private hangouts, AMA sessions, backstage access, signed memorabilia, and more. As an NFT holder, you gain privileged entry into a digital realm where you can explore behind-the-scenes footage, unreleased scenes, and exclusive interviews. Engage directly with Meeko through private hangouts and AMA sessions, where you can gain insights into his creative process and receive firsthand advice. Additionally, enjoy VIP access to premieres, red carpet events, and exclusive screenings, with the opportunity to meet other renowned actors and industry professionals. The Meeko Gattuso NFT collection offers an unparalleled experience that celebrates Meeko's talent and rewards dedicated fans with a range of benefits and unique opportunities.",
-    "discordURL": "",
-    "img": "QmRuQTHJjYXCQuLjMNx2HTVyGJTACznHzCJuCCGFWpuGPp",
-    "name": "Meeko Gattuso",
-    "open": true,
-    "owner": "addr1qxcrsalmujpt0qqlyrseehr0znj8em57ecrnrnk757frtxm24ecsv6qz9zx2gc0p5dxx9sfntckuu4ugcxvue5z35xasqhrsu7",
-    "path": "MeekoGattuso",
-    "price": {
-      "standard": 150000000
-    },
-    "startcount": 1,
-    "telegramURL": "",
-    "twitterURL": "https://www.instagram.com/meekogattuso/?hl=en",
-    "websiteURL": "",
-    "youtubeURL": "https://www.imdb.com/name/nm5581881/"
-  },
-  "3695a0fb45b370a9106871af6858ca3b85c4a8813e80ba9d02dd0e96": {
-    "addr": "addr1v9ms06tj470zd569kd5yyr34paxhtpuewda0mplh5fkhkfq5w276u",
-    "allMinted": false,
-    "banner": "",
-    "cid": "bafybeibermgmuuaxjghd2ew4gxbwbnb7rgt2zfhac36auf5nd2yz7i5xtq",
-    "count": 10000,
-    "description": "The PsychoNauts found themselves in a flipped reality when they fell through a Purple portal. The Cardano blockchain will never be the same with PsychoNauts building a muti chain ecosystem brand with one goal to become a top contender adding value on the chain.",
-    "discordURL": "",
-    "img": "QmdVtyfSMPQpULYrjtRcsWRpm3dxh7o6ADKpZUUStDcHJh",
-    "name": "PsychoNaut Flipd",
-    "open": true,
-    "owner": "addr1q842cnpy5598rvgmyahfyqx6fx0vpsmacmg5rqg0w379306fq0387yqxhnm37p5gl8ql25e9ccuyrh8y4gd2r5klm33s5djkuh",
-    "path": "PsychoNautFlipd",
-    "price": {
-      "standard": 10000000
-    },
-    "startcount": 1,
-    "telegramURL": "https://twitter.com/hempmillionaire",
-    "twitterURL": "https://twitter.com/PsychoNautAnon",
-    "websiteURL": "https://www.instagram.com/Psychonautanon",
-    "youtubeURL": ""
-  },
   "418686ba2ff6d8a15c36167bbcb6e7a89a9ca7f2c739c7b16a691b00": {
     "addr": "addr1v8flzu7l8rtt2erscnpcpg69w85w52gtcyrac45qq0advmg8n7zat",
     "allMinted": true,
@@ -74,37 +30,6 @@
     "websiteURL": "https://adayield.io/",
     "youtubeURL": "https://youtu.be/bOVPZvj-t7M"
   },
-  "4b6c17971075db0d586b444e6c4ff2ad3d78edad567662f10127efed": {
-    "addr": "addr1v89yks66ur3l2pj6k72fha0mtcqckluuq4t58wjt7sx3dcsctfp5k",
-    "allMinted": false,
-    "banner": "",
-    "cid": "bafybeie32b2pdb3egcia4uo6oenjl62rk6ursakxd3lsce4qw3jdqhdily",
-    "count": 5000,
-    "description": "5000 unique Roman Statue Inspired NFT Pass to Gain Exclusive Access to Discord Trading Groups, Receive a Weekly Financial Newsletter, and Secure Future Community NFT and Tokens. Hold Long Term to benefit from our Loyalty Reward System!",
-    "discordURL": "https://discord.gg/DQpG8zPbcJ",
-    "img": "QmacEMvhmb9LeTkLn511NeUpJVQLYyJrDa69jBr6ZA96pc",
-    "name": "Pecunia",
-    "open": true,
-    "owner": "addr1qxvppj4mkq6vj2crjwwec3g4ug34n302aphf86k4sxprvqvuv95vqxuzsvv6wr924fu4m95wxf4phmpqhdwv9f7u4lmqprvq9g",
-    "path": "Pecunia",
-    "price": {
-      "standard": 50000000
-    },
-    "royalty": {
-      "777": {
-        "addr": [
-          "addr1qxvppj4mkq6vj2crjwwec3g4ug34n302aphf86k4sxprvqv",
-          "uv95vqxuzsvv6wr924fu4m95wxf4phmpqhdwv9f7u4lmqprvq9g"
-        ],
-        "rate": "0.1"
-      }
-    },
-    "startcount": 0,
-    "telegramURL": "",
-    "twitterURL": "https://x.com/pecuniaada?s=21&t=bw0m0dSW1mqJAKY646AIcA",
-    "websiteURL": "",
-    "youtubeURL": ""
-  },
   "5389ca30e8a3e941e20c710ad3f6900f6dd8b661d7cc16c7166d5d8c": {
     "addr": "addr1vx458m6wfm2llw0zfhkj9my8p04t4w8nyzm4ta7tpugcq6shnm6sf",
     "allMinted": false,
@@ -119,7 +44,9 @@
     "owner": "addr1q9qhay2zwlq88tcm4wxkxuc0sg30c5j89rwsw3pm4m3lkl4cday2uucnrhhpwllwzmz2hgmkuhq4s794m575fufknn0q29n8zs",
     "path": "RouletteMastery",
     "price": {
-      "standard": 1500000000
+      "gem": 500000000,
+      "pgem": 250000000,
+      "standard": 1000000000
     },
     "royalty": {
       "777": {
@@ -150,7 +77,9 @@
     "owner": "addr1q9ec5tcrx3vlrh3t6gkf4c6fccr9g6azkfm7za6wlzpsmd3l59ysdn74fjpfqzvdh66zysdl6h27ypg6vwfdfcpxp47ql4wp8p",
     "path": "MetaverseDefenders",
     "price": {
-      "standard": 19000000
+      "gem": 12000000,
+      "pgem": 6000000,
+      "standard": 21000000
     },
     "startcount": 1,
     "telegramURL": "https://metaversedefenders.drsurreal.art/telegram",
@@ -172,6 +101,8 @@
     "owner": "addr1q8ltqu3amlvf9e0wkglnkqnmxgkf7nqur3sqkh9mzwqc3wl4sn5p5jet4kw0ugyyejgzzvapssczxxclltxphcj9gu8sqvdple",
     "path": "MetaverseCadavers",
     "price": {
+      "gem": 55000000,
+      "pgem": 42000000,
       "standard": 69000000
     },
     "royalty": {
@@ -203,33 +134,13 @@
     "owner": "addr1qye52d6ky2laew9a00pppxyq7spyx4eu8ejjyxlw5ecjut3g2reenxcf57ga9wt9ekyegnc36h3c2c0vfydl0j6nj8hqggs952",
     "path": "CadaverPotClub",
     "price": {
+      "gem": 12000000,
+      "pgem": 6000000,
       "standard": 21000000
     },
     "startcount": 1,
     "telegramURL": "",
     "twitterURL": "https://twitter.com/CadaverPotClub",
-    "websiteURL": "",
-    "youtubeURL": ""
-  },
-  "9f45dc075712bae139383b01dd6790b0c261aa95734ae10293a68919": {
-    "addr": "addr1v9ka9yy9pzyhce2f2pkv8r7mgl9cupz7gu8ut7nm4u8u8fgj0wagq",
-    "allMinted": false,
-    "banner": "",
-    "cid": "bafybeigio6ar32rpjhpslc2az627w67f5u7p6uqtasadq4fmdwafmmxwaa",
-    "count": 5252,
-    "description": "The Original Sketch Collection by Illustrator Michael (Oddball) Randall, former Garbage Pail Kids sketch artist. The first NFTs to feature actual artist sketches, in transparent layering, over several actual media images.",
-    "discordURL": "",
-    "img": "QmVU3YSMk1ZJPmhQbxAQEcctZkxj28VvCvyrqJjZLVMs6P",
-    "name": "SKETCH by Oddball",
-    "open": true,
-    "owner": "addr1qx4wd242tnnlc9yztxws6slpes4wghal7s6n4f7tcxmzzk77q0gy9hc9cwzseepr53arjn0vsf8htqluzr7qzjw3kp4s9mftlc",
-    "path": "SKETCHbyOddball",
-    "price": {
-      "standard": 150000000
-    },
-    "startcount": 1,
-    "telegramURL": "",
-    "twitterURL": "https://twitter.com/OddballRandall",
     "websiteURL": "",
     "youtubeURL": ""
   },
@@ -247,6 +158,8 @@
     "owner": "addr1qx5zdy7d4gtac83q5xpj6vhflwtdjxeypge4adz0cjcs4mh54skde4js4ss74vr27dna6yczwzf8v4kzzwr7cafjdmdsutm2hw",
     "path": "POWERGoldMembership",
     "price": {
+      "gem": 40000000,
+      "pgem": 40000000,
       "standard": 40000000
     },
     "royalty": {
@@ -277,7 +190,9 @@
     "owner": "addr1q8fgexdrex6thdmg7d8s5h97epgkcrphzweaculmymaekqnjkd5s7cwkwzf2ey9nkpyjfha75g8lu2r0hpqja4dk68dsnf7daz",
     "path": "BlessingOfTheBull",
     "price": {
-      "standard": 22000000
+      "gem": 12000000,
+      "pgem": 6000000,
+      "standard": 21000000
     },
     "startcount": 1,
     "telegramURL": "",
@@ -299,7 +214,9 @@
     "owner": "addr1qyhyytsgm759ss3vler6ue2yu7vvxhqqqkwj64kfveqn3kt3d5zcretgh5gkkw2hwxla08derqeacjc5defy85k3lupskkg7cj",
     "path": "ThreadsOfCrypto",
     "price": {
-      "standard": 10000000
+      "gem": 15000000,
+      "pgem": 10000000,
+      "standard": 21000000
     },
     "royalty": {
       "777": {
@@ -330,7 +247,9 @@
     "owner": "addr1q8cnlt22q7whnthpz9t00p92xlnkrk7pnxjs83sm4aqw0urwx40aktehf37yhxtd0wsudkyj23wmh0f8chwryy50zppqrtz3w2",
     "path": "GuardianLiquidators",
     "price": {
-      "standard": 30000000
+      "gem": 15000000,
+      "pgem": 10000000,
+      "standard": 21000000
     },
     "royalty": {
       "777": {
@@ -361,6 +280,8 @@
     "owner": "addr1qxzv58p93myca2r2taufs8ev5azy8d752xdsznau7e2hfzyy4anxu66lzzx24lsn7nztq7g58s2klde6y2s6vds7wevqjg83da",
     "path": "Gems",
     "price": {
+      "gem": 77000000,
+      "pgem": 55000000,
       "standard": 120000000
     },
     "startcount": 1,
@@ -383,7 +304,9 @@
     "owner": "addr1q835nlxy0zy6ccj3tup8dk8z4n6ggwxxy29tn0mc24yexxfsz09xskfpvgxu9l4nas22n5s286wlq4r6k9ywtedj2hlsdmdler",
     "path": "AshibCavalierMorphs",
     "price": {
-      "standard": 25000000
+      "gem": 12000000,
+      "pgem": 6000000,
+      "standard": 21000000
     },
     "royalty": {
       "777": {
